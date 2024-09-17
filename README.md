@@ -1,6 +1,12 @@
 # Enhanced Image-Colour-Transfer-2
 ===========================================================================
 
+Python version can be found in '[enhance2.py ](enhance2.py)'. Original repository can be found in [This repository](https://github.com/TJCoding/Enhanced-Image-Colour-Transfer-2).
+*You can give this and the original repo a start if you find this useful.*
+
+
+===========================================================================
+
 __A Further Enhanced Implementation of the Colour Transfer Method proposed by E Reinhard et al.__
 
 ***This repository is supported by a web app, a Medium article and by executable code. See details below.***
